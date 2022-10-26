@@ -1,0 +1,17 @@
+.bg-img {
+  background-image: url(assets/placeimg_1000_480_tech.jpg);
+  background-size: cover;
+}
+
+.bg-img-2 {
+  background-image: url(assets/Logochamaco.jpeg);
+  background-size: cover;
+}
+.logo {
+  width: 700px;
+  height: 500px;
+}
+.bg-pattern {
+  background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/checkerboard-cross.png);
+  background-size: auto;
+}
