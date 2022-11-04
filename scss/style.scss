@@ -1,4 +1,6 @@
-@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/bootstrap";
+$navbar-dark-color: rgba($white, 0.9);
+$dark: rgb(0, 0, 0);
 .bg-img {
   background-image: url(../assets/placeimg_1000_480_tech.jpg);
   background-size: cover;
