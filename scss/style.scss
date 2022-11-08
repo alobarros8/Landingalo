@@ -1,34 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;600;700&display=swap");
 
-body {
-  font-family: "Rajdhani", sans-serif;
-}
-
-.bg-img {
-  background-image: url(../assets/placeimg_1000_480_tech.jpg);
-  background-size: cover;
-  z-index: -1;
-}
-.lol {
-  font-size: 500%;
-}
-.img-perfil {
-  width: 300px;
-  height: 400px;
-  border-radius: 50%;
-  margin-bottom: 3%;
-  border: solid rgb(0, 0, 0);
-}
-.list-group-item-2 {
-  list-style-type: none;
-  padding: 3%;
-  font-size: 150%;
-}
-
 @import "../node_modules/bootstrap/scss/bootstrap";
+@import "./misestilos";
 $navbar-dark-color: rgba($white, 0.9);
 $dark: rgb(0, 0, 0);
 $font-family-base: "Rajdhani", sans-serif;
-.bg-sobremi {
-  background-image: linear-gradient($secondary, $light);
-}
