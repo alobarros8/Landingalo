@@ -1,8 +1,5 @@
-@import "../node_modules/bootstrap/scss/bootstrap";
 @import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;600;700&display=swap");
-$navbar-dark-color: rgba($white, 0.9);
-$dark: rgb(0, 0, 0);
-$font-family-base: "Rajdhani", sans-serif;
+
 body {
   font-family: "Rajdhani", sans-serif;
 }
@@ -27,6 +24,11 @@ body {
   padding: 3%;
   font-size: 150%;
 }
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+$navbar-dark-color: rgba($white, 0.9);
+$dark: rgb(0, 0, 0);
+$font-family-base: "Rajdhani", sans-serif;
 .bg-sobremi {
   background-image: linear-gradient($secondary, $light);
 }
