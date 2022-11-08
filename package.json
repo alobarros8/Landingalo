@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alobarros8/aychamaco-preentrega2"
+    "url": "git+https://github.com/alobarros8/Landingalo"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alobarros8/aychamaco-preentrega2issues"
+    "url": "https://github.com/alobarros8/Landingaloissues"
   },
-  "homepage": "https://github.com/alobarros8/aychamaco-preentrega2#readme"
+  "homepage": "https://github.com/alobarros8/Landingalo#readme"
 }
